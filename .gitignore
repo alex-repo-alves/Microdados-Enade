@@ -9,6 +9,7 @@
 *.ods
 *.pdf
 *.png
+*.~lock*
 
 # Jupyer
 *.ipynb_checkpoints*
